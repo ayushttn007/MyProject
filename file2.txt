@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is for dev
+=======
+this is for bug
+>>>>>>> bug
